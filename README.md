@@ -21,7 +21,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/react.png" width="50"/>
 <img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/express.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/mongo.png" width="45"/>
+<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/mongo.png" width="50"/>
 <img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/node.png" width="50"/>
 
 </p>
