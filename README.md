@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://tazuddin.vercel.app" ><img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/banner/Shaik%20Taz%20Uddin%20GitHub.png" alt="GitHub cover" align="center"/></a>
+<a href="https://tazuddin.vercel.app" ><img src="./images/banner/banner.png" alt="GitHub cover" align="center"/></a>
 </div>
 <!-- <br> -->
 <h1 align="">I'm Taz Uddin</h1>
