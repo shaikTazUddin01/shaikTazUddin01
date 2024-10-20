@@ -13,19 +13,28 @@
 <h3 align="left">💻 Tools And Technology : </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/HTML.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/css.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/JavaScript.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/tailwind.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/firebase.png" width="50"/>
+<img src="./images/icon/HTML.png" width="50"/>
+<img src="./images/icon/css.png" width="50"/>
+<img src="./images/icon/tailwind.png" width="50"/>
+<img src="./images/icon/firebase.png" width="50"/>
+<img src="./images/icon/Bootsrap.png" width="50" style="border-radius: 9px;" />
+<img src="./images/icon/JavaScript.png" width="50"/>
+</p>
+
+<p align="center">
+<img src="./images/icon/ts.png" width="50" style="border-radius: 9px;" />
+<img src="./images/icon/react.png" width="50"/>
+<img src="./images/icon/redux.png" width="50"/>
+<img src="./images//icon/nextjs.jfif" width="50" style="border-radius:9px"/>
+<img src="./images/icon/express.png" width="50"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/react.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/express.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/mongo.png" width="50"/>
-<img src="https://raw.githubusercontent.com/shaikTazUddin01/shaikTazUddin01/main/images/icon/node.png" width="50"/>
+<img src="./images/icon/mongo.png" width="50"/>
+<img src="./images/icon/node.png" width="50"/>
 
 </p>
+
+
 <h3 align="left">📱 Connect With Me : </h3>
 <p align="center">
 <a href="https://fb.com/tazahmedcse" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50"/></a>
