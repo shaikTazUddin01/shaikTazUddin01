@@ -17,15 +17,15 @@
 <img src="./images/icon/css.png" width="50"/>
 <img src="./images/icon/tailwind.png" width="50"/>
 <img src="./images/icon/firebase.png" width="50"/>
-<img src="./images/icon/Bootsrap.png" width="50" style="border-radius: 9px;" />
+<img src="./images/icon/Bootsrap.png" width="50"  />
 <img src="./images/icon/JavaScript.png" width="50"/>
 </p>
 
 <p align="center">
-<img src="./images/icon/ts.png" width="50" style="border-radius: 9px;" />
+<img src="./images/icon/ts.png" width="50" />
 <img src="./images/icon/react.png" width="50"/>
 <img src="./images/icon/redux.png" width="50"/>
-<img src="./images//icon/nextjs.jfif" width="50" style="border-radius:9px"/>
+<img src="./images/icon/nextjs.png" width="50"/>
 <img src="./images/icon/express.png" width="50"/>
 </p>
 <p align="center">
@@ -34,7 +34,6 @@
 
 </p>
 
-
 <h3 align="left">📱 Connect With Me : </h3>
 <p align="center">
 <a href="https://fb.com/tazahmedcse" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50"/></a>
@@ -42,5 +41,3 @@
 <a href = "mailto:tazahmedsoft@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="50"/></a>
 <!-- <a href = "https://www.instagram.com/tanmoyparvez/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
-
-
